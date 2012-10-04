@@ -14,3 +14,5 @@ Currently this has REQUIRED parameters:
 - columns: array of objects that define the columns (object format: { column: 'myColumn', title: 'My column header' }
 - rows: array of arrays, one array per row, each row array with a value for each column
 - columnSize: width of each column in px
+
+![Example](https://github.com/ehynds/jquery-ui-multiselect-widget/blob/master/screenshot.gif)
