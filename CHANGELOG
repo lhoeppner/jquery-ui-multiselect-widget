@@ -1,5 +1,11 @@
 jQuery UI MultiSelect Widget Changelog
 
+Version 1.14 - 10/05/2012
+==============================================
+- Added table support
+- Fixed compatibility with kendo-ui
+- Added a require-js wrapper to support AMD
+
 Version 1.13 - 08/19/2012
 ==============================================
 - Fixed: jQuery 1.8 compatibility
