@@ -15,4 +15,4 @@ Currently this has REQUIRED parameters:
 - rows: array of arrays, one array per row, each row array with a value for each column
 - columnSize: width of each column in px
 
-![Example](https://github.com/ehynds/jquery-ui-multiselect-widget/blob/master/screenshot.gif)
+![Example](https://github.com/lhoeppner/jquery-ui-multiselect-widget/blob/master/screenshot.gif?raw=true)
